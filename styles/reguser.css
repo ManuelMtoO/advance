@@ -1,0 +1,11 @@
+
+/* Estilo para el borde rojo en caso de error */
+
+#togglePassword {
+    cursor: pointer;
+    color: #888;
+}
+
+#togglePassword:hover {
+    color: #333;
+}

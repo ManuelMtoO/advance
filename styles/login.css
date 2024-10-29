@@ -1,0 +1,40 @@
+/* Centrar el login */
+.container {
+    background-color: #f44336; /* Color rojo similar al de la imagen */
+    border-radius: 10px;
+    padding: 2rem;
+    max-width: 400px;
+    width: 100%;
+}
+
+/* Ajustes para los campos de formulario */
+.form-control {
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-primary {
+    background-color: #b71c1c;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #d32f2f;
+}
+
+/* Estilos para el enlace de 'Forgot Password?' */
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffccbc;
+    text-decoration: underline;
+}
+
+/* Para asegurar el diseño */
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
